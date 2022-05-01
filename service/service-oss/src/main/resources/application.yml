@@ -20,6 +20,6 @@ spring:
 aliyun:
   oss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    keyId: LTAI5tGzMKATWtLkMrWG4u1q
-    keySecret: Z6TJMtu5ZBmukpmwwYhB3l8crJJwqX
+    keyId: # 自己的keyId
+    keySecret: # 自己的keySecret
     bucketName: srb-xdh
